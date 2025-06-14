@@ -1,0 +1,11 @@
+commit 2fa43d977d9a8f69016144f4a227fe9b6661b0cf (HEAD -> main, origin/main, origin/HEAD)
+Author: julidedurgutoglu <julide_yeliz@hotmail.com>
+Date:   Sun Jun 15 02:16:52 2025 +0300
+
+    hafta 11
+
+commit ea70c9788d34380938e7556304ede171c251a056
+Author: julidedurgutoglu <julide_yeliz@hotmail.com>
+Date:   Sat Jun 14 02:25:16 2025 +0300
+
+    hafta11
